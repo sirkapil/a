@@ -1,7 +1,7 @@
 # Site wide configuration
 title: Trio
 description: 'A simple content-focused Jekyll theme'
-url: http://www.perfectlyrandom.org/trio
+url: https://sirkapil.github.io/trio
 date_format: '%B %d, %Y'
 fort_awesome_icon: 'cog fa-spin'
 
@@ -30,7 +30,7 @@ sharing:
 disqus_shortname: 'perfectlyrandom-trio'
 
 # Jekyll configuration
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:title/
 paginate: 4
 
 # Markdown
