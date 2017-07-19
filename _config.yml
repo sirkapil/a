@@ -34,7 +34,7 @@ permalink: /:year/:title/
 paginate: 4
 
 # Markdown
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 # Enable when using redcarpet
@@ -42,7 +42,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data', 'footnotes']
 
 # Enable when using kramdown (you will need to use ~~~ instead of ```)
-# kramdown:
+# kramdown: enable
 #   auto_ids: true
 #   footnote_nr: 1
 #   entity_output: as_char
