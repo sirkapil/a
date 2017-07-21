@@ -1,7 +1,7 @@
 # Site wide configuration
 title: Blog
 description: 'search'
-url: https://sirkapil.github.io/search
+url: https://sirkapil.github.io/a
 date_format: '%B %d, %Y'
 fort_awesome_icon: 'cog fa-spin'
 
