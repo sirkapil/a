@@ -1,5 +1,5 @@
 # Site wide configuration
-title: Posts
+title: Blog
 description: 'search'
 url: https://sirkapil.github.io/search
 date_format: '%B %d, %Y'
