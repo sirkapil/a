@@ -1,5 +1,5 @@
 # Site wide configuration
-title: sirkapil
+title: 
 description: 'search'
 url: https://sirkapil.github.io/trio
 date_format: '%B %d, %Y'
@@ -9,11 +9,11 @@ fort_awesome_icon: 'cog fa-spin'
 # name and email are required (change code to remove these)
 # (leave the rest blank to disable the corresponding sharing button)
 owner:
-    name: Ankur Gupta
-    email: ankur@perfectlyrandom.org
-    github: ankur-gupta
-    twitter: ankurIO
-    linkedin: ankurguptawisc
+    name: 
+    email: 
+    github: 
+    twitter: 
+    linkedin: 
     facebook:
     google_plus:
     youtube:
@@ -30,7 +30,7 @@ sharing:
 disqus_shortname: 'perfectlyrandom-trio'
 
 # Jekyll configuration
-permalink: /:title/
+permalink: /Notes/:title/
 paginate: 4
 
 # Markdown
